@@ -1,2 +1,2 @@
 # ŠTC_programovanie1
-2. trimester, 1. zadanie, Kalkulačka
+2. trimester, 1. zadanie, kalkulačka
